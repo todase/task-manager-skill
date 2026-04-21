@@ -5,7 +5,7 @@ Claude Code plugin for interacting with the task manager app via its production 
 ## Installation
 
 ```bash
-git clone https://github.com/todase/task-manager-skill
+git clone https://github.com/sk01d/task-manager-skill
 claude --plugin-dir ./task-manager-skill
 ```
 
